@@ -46,3 +46,32 @@ img {
   margin-right: auto;
   border-radius: 10px;
 }
+
+.news {
+  padding: 10px;
+  margin: 20px;
+  max-width: 800px;
+  text-align: left;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  text-align: center ;
+}
+
+.button {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
